@@ -1,0 +1,54 @@
+<resources>
+	<string id="AppName">DigitalBlue</string>
+	<string id="TitleSecondsEnabled">Enable Seconds (consumes more power)</string>
+	<string id="TitleBatteryPercentageEnabled">Enable battery percentage in battery indicator</string>
+	<string id="TitleWhiteThemeEnabled">Enable white theme</string>
+	<string id="TitleWhiteThemeAutoEnabled">Automatically enable white theme (overrides enable white theme setting)</string>
+	<string id="TitleWhiteThemeFrom">From (hour)</string>
+	<string id="TitleWhiteThemeTo">To (hour)</string>
+	<string id="errorTimeStamp">Please specify a value between 0 and 24</string>
+	<string id="deviceID">undetermined</string>
+
+	<bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+	<bitmap id="imgSleepMode" filename="images/sleepmode.png" />
+	<bitmap id="imgBTConnected" filename="images/bt.png" />
+	<bitmap id="imgAlarm" filename="images/alarm.png" />
+	<bitmap id="imgSleepModeThemeWhite" filename="images/sleepmodeThemeWhite.png" />
+	<bitmap id="imgBTConnectedThemeWhite" filename="images/btThemeWhite.png" />
+	<bitmap id="imgAlarmThemeWhite" filename="images/alarmThemeWhite.png" />
+ 
+	<properties>
+	    <property id="SecondsEnabled" type="boolean">false</property>
+	    <property id="BatteryPercentageEnabled" type="boolean">true</property>
+	    <property id="WhiteThemeEnabled" type="boolean">false</property>
+	    <property id="WhiteThemeAutoEnabled" type="boolean">false</property>
+	    <property id="WhiteThemeFrom" type="number">20</property>
+	    <property id="WhiteThemeTo" type="number">7</property>
+	</properties>
+
+	<fonts>
+	</fonts>
+
+	<settings>
+		<setting propertyKey="@Properties.SecondsEnabled" title="@Strings.TitleSecondsEnabled">
+			<settingConfig type="boolean" />
+		</setting>
+			<setting propertyKey="@Properties.BatteryPercentageEnabled" title="@Strings.TitleBatteryPercentageEnabled">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.WhiteThemeEnabled" title="@Strings.TitleWhiteThemeEnabled">
+			<settingConfig type="boolean" />
+		</setting>
+		
+		<setting propertyKey="@Properties.WhiteThemeAutoEnabled" title="@Strings.TitleWhiteThemeAutoEnabled">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.WhiteThemeFrom" title="@Strings.TitleWhiteThemeFrom">
+			<settingConfig type="numeric"  min="0" max="24" errorMessage="@Strings.errorTimeStamp" required="true"/>
+		</setting>
+		<setting propertyKey="@Properties.WhiteThemeTo" title="@Strings.TitleWhiteThemeTo">
+			<settingConfig type="numeric"  min="0" max="24" errorMessage="@Strings.errorTimeStamp" required="true"/>
+		</setting>
+		
+	</settings>
+</resources>

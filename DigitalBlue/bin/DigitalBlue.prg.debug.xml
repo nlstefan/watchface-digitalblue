@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="41" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="42" pc="268435497" symbol="initialize"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="46" pc="268435539" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="47" pc="268435578" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="48" pc="268435617" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="49" pc="268435656" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="50" pc="268435695" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="51" pc="268435738" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="52" pc="268435771" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="53" pc="268435797" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="55" pc="268435813" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="57" pc="268435823" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="58" pc="268435856" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="59" pc="268435882" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="61" pc="268435898" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="63" pc="268435908" symbol="reloadResources"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="67" pc="268435923" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="68" pc="268435934" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="69" pc="268435977" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="70" pc="268436020" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="72" pc="268436063" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="73" pc="268436083" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="74" pc="268436103" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="76" pc="268436126" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="77" pc="268436169" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="78" pc="268436212" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="80" pc="268436255" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="81" pc="268436275" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="82" pc="268436295" symbol="reloadTheme"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="88" pc="268436318" symbol="onLayout"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="97" pc="268436336" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="99" pc="268436353" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="100" pc="268436364" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="101" pc="268436374" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="102" pc="268436394" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="103" pc="268436437" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="105" pc="268436450" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="108" pc="268436463" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="109" pc="268436506" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="111" pc="268436519" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="115" pc="268436529" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="116" pc="268436543" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="117" pc="268436555" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="122" pc="268436571" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="123" pc="268436599" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="125" pc="268436611" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="126" pc="268436628" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="127" pc="268436647" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="128" pc="268436678" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="129" pc="268436697" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="132" pc="268436731" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="134" pc="268436772" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="137" pc="268436814" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="140" pc="268436877" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="141" pc="268436901" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="142" pc="268436924" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="143" pc="268436959" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="144" pc="268437022" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="155" pc="268437118" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="157" pc="268437181" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="158" pc="268437192" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="161" pc="268437258" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="163" pc="268437321" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="164" pc="268437337" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="165" pc="268437362" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="168" pc="268437381" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="169" pc="268437392" symbol="onUpdate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="174" pc="268437449" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="175" pc="268437480" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="176" pc="268437556" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="177" pc="268437570" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="179" pc="268437587" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="180" pc="268437619" symbol="drawDate"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="185" pc="268437654" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="186" pc="268437668" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="187" pc="268437668" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="189" pc="268437700" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="190" pc="268437724" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="192" pc="268437815" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="193" pc="268437832" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="194" pc="268437848" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="196" pc="268437950" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="197" pc="268437966" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="199" pc="268438051" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="203" pc="268438139" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="204" pc="268438156" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="205" pc="268438199" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="206" pc="268438227" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="207" pc="268438252" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="209" pc="268438256" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="210" pc="268438273" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="212" pc="268438345" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="216" pc="268438417" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="218" pc="268438428" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="219" pc="268438433" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="221" pc="268438537" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="227" pc="268438624" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="229" pc="268438656" symbol="drawTime"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="233" pc="268438662" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="234" pc="268438692" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="235" pc="268438717" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="236" pc="268438738" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="237" pc="268438756" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="239" pc="268438789" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="241" pc="268438804" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="244" pc="268438819" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="245" pc="268438840" symbol="getFontOffsetBug"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="250" pc="268438849" symbol="drawAlarm"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="251" pc="268438860" symbol="drawAlarm"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="256" pc="268438896" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="257" pc="268438913" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="258" pc="268438924" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="259" pc="268438931" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="260" pc="268438938" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="261" pc="268438974" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="263" pc="268439018" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="264" pc="268439050" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="266" pc="268439070" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="267" pc="268439092" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="268" pc="268439103" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="270" pc="268439186" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="271" pc="268439208" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="272" pc="268439228" symbol="drawNotifications"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="278" pc="268439269" symbol="drawSleepMode"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="280" pc="268439274" symbol="drawSleepMode"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="285" pc="268439310" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="286" pc="268439316" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="287" pc="268439323" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="289" pc="268439330" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="290" pc="268439366" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="291" pc="268439402" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="292" pc="268439419" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="293" pc="268439445" symbol="drawBTConnected"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="298" pc="268439489" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="299" pc="268439496" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="301" pc="268439503" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="302" pc="268439520" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="303" pc="268439552" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="304" pc="268439578" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="305" pc="268439619" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="306" pc="268439630" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="308" pc="268439669" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="310" pc="268439705" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="311" pc="268439776" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="312" pc="268439787" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="313" pc="268439819" symbol="drawBattery"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="318" pc="268439920" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="319" pc="268439927" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="320" pc="268439934" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="321" pc="268439941" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="322" pc="268439948" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="323" pc="268439955" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="324" pc="268439962" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="325" pc="268439969" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="326" pc="268439976" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="328" pc="268439983" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="329" pc="268439990" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="330" pc="268440001" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="332" pc="268440011" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="335" pc="268440015" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="336" pc="268440022" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="337" pc="268440033" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="339" pc="268440043" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="342" pc="268440047" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="343" pc="268440060" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="345" pc="268440073" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="347" pc="268440091" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="348" pc="268440099" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="349" pc="268440103" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="350" pc="268440110" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="351" pc="268440117" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="352" pc="268440128" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="353" pc="268440135" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="355" pc="268440145" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="357" pc="268440155" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="358" pc="268440159" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="359" pc="268440166" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="360" pc="268440173" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="361" pc="268440184" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="362" pc="268440191" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="363" pc="268440198" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="368" pc="268440211" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="369" pc="268440215" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="370" pc="268440222" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="371" pc="268440229" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="376" pc="268440233" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="377" pc="268440244" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="378" pc="268440255" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="380" pc="268440294" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="382" pc="268440330" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="385" pc="268440353" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="386" pc="268440364" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="387" pc="268440375" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="389" pc="268440414" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="391" pc="268440450" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="394" pc="268440473" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="395" pc="268440484" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="396" pc="268440520" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="399" pc="268440543" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="400" pc="268440575" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="401" pc="268440586" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="403" pc="268440609" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="404" pc="268440620" symbol="drawStepProgress"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="410" pc="268440649" symbol="onSettingsChanged"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="411" pc="268440661" symbol="onSettingsChanged"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="412" pc="268440677" symbol="onSettingsChanged"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="416" pc="268440696" symbol="onExitSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="417" pc="268440707" symbol="onExitSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="420" pc="268440720" symbol="onExitSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="425" pc="268440733" symbol="onEnterSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="426" pc="268440744" symbol="onEnterSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="427" pc="268440754" symbol="onEnterSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueView.mc" lineNum="429" pc="268440773" symbol="onEnterSleep"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueApp.mc" lineNum="15" pc="268440792" symbol="getInitialView"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueApp.mc" lineNum="16" pc="268440822" symbol="getInitialView"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueApp.mc" lineNum="21" pc="268440848" symbol="onSettingsChanged"/>
+<entry filename="/Users/stefandevries/Documents/GarminConnectIQ/DigitalBlue/source/DigitalBlueApp.mc" lineNum="22" pc="268440861" symbol="onSettingsChanged"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8" object="true" symbol="DigitalBlueView"/>
+<entry field="true" id="15" symbol="centerWidth"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="49" symbol="TitleWhiteThemeAutoEnabled"/>
+<entry id="39" method="true" symbol="drawBattery"/>
+<entry id="36" method="true" symbol="drawNotifications"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="32" method="true" symbol="drawDate"/>
+<entry field="true" id="29" symbol="backGroundColor"/>
+<entry field="true" id="13" symbol="margin"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="24" symbol="autoThemeWhite"/>
+<entry id="31" method="true" symbol="reloadTheme"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="27" symbol="textColor"/>
+<entry field="true" id="18" symbol="secondsEnabled"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="12" symbol="imgAlarm"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="48" symbol="TitleWhiteThemeEnabled"/>
+<entry id="40" method="true" symbol="drawStepProgress"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="54" symbol="AppName"/>
+<entry field="true" id="50" symbol="TitleWhiteThemeFrom"/>
+<entry field="true" id="55" symbol="view"/>
+<entry id="34" method="true" symbol="getFontOffsetBug"/>
+<entry id="35" method="true" symbol="drawAlarm"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="51" symbol="errorTimeStamp"/>
+<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry field="true" id="52" symbol="TitleWhiteThemeTo"/>
+<entry id="33" method="true" symbol="drawTime"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="37" method="true" symbol="drawSleepMode"/>
+<entry field="true" id="10" symbol="imgSleepMode"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="14" symbol="marginSmall"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="45" symbol="imgAlarmThemeWhite"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="25" symbol="autoThemeFrom"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="22" symbol="deviceID"/>
+<entry field="true" id="23" symbol="themeWhite"/>
+<entry field="true" id="21" symbol="batteryPercentageEnabled"/>
+<entry field="true" id="53" symbol="TitleSecondsEnabled"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="47" symbol="TitleBatteryPercentageEnabled"/>
+<entry field="true" id="8389583" symbol="alarmCount"/>
+<entry id="38" method="true" symbol="drawBTConnected"/>
+<entry id="42" module="true" symbol="Layouts"/>
+<entry field="true" id="43" symbol="imgSleepModeThemeWhite"/>
+<entry field="true" id="20" symbol="hasAlarmSupport"/>
+<entry field="true" id="26" symbol="autoThemeTo"/>
+<entry id="30" method="true" symbol="reloadResources"/>
+<entry field="true" id="8389584" symbol="notificationCount"/>
+<entry field="true" id="19" symbol="hasNotificationSupport"/>
+<entry id="9" object="true" symbol="DigitalBlueApp"/>
+<entry field="true" id="28" symbol="lineColor"/>
+<entry id="41" module="true" symbol="Menus"/>
+<entry field="true" id="17" symbol="showSeconds"/>
+<entry field="true" id="16" symbol="centerHeight"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="44" symbol="imgBTConnectedThemeWhite"/>
+<entry field="true" id="11" symbol="imgBTConnected"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435920" name="setting" stackId="1" startPc="268435539"/>
+<entry endPc="268436568" name="previousTheme" stackId="3" startPc="268436364"/>
+<entry endPc="268437115" name="stepPercentage" stackId="7" startPc="268436901"/>
+<entry endPc="268437115" name="movebarProgress" stackId="6" startPc="268436901"/>
+<entry endPc="268437115" name="moveBarLevel" stackId="5" startPc="268436901"/>
+<entry endPc="268437446" name="dimensionsTime" stackId="4" startPc="268436336"/>
+<entry endPc="268437446" name="clockTime" stackId="2" startPc="268436336"/>
+<entry endPc="268437446" name="alarmPos" stackId="8" startPc="268436336"/>
+<entry endPc="268437651" name="dimensionsDate" stackId="8" startPc="268437449"/>
+<entry endPc="268437651" name="fontDate" stackId="7" startPc="268437449"/>
+<entry endPc="268437651" name="dateString" stackId="6" startPc="268437449"/>
+<entry endPc="268437651" name="info" stackId="5" startPc="268437449"/>
+<entry endPc="268437930" name="tmpHour" stackId="8" startPc="268437832"/>
+<entry endPc="268438048" name="tmpHour" stackId="9" startPc="268437950"/>
+<entry endPc="268438414" name="ampmYLoc" stackId="13" startPc="268438252"/>
+<entry endPc="268438659" name="fontTime" stackId="6" startPc="268437654"/>
+<entry endPc="268438659" name="timeHeight" stackId="12" startPc="268437654"/>
+<entry endPc="268438659" name="xLocAmPmSeconds" stackId="11" startPc="268437654"/>
+<entry endPc="268438659" name="timeString" stackId="7" startPc="268437654"/>
+<entry endPc="268438659" name="dimensionsTime" stackId="10" startPc="268437654"/>
+<entry endPc="268439263" name="centerHeightEnvelope" stackId="8" startPc="268439186"/>
+<entry endPc="268439263" name="centerEnvelope" stackId="7" startPc="268438924"/>
+<entry endPc="268439263" name="notificationWidth" stackId="5" startPc="268438924"/>
+<entry endPc="268439263" name="notificationHeight" stackId="6" startPc="268438924"/>
+<entry endPc="268439483" name="notificationWidth" stackId="5" startPc="268439316"/>
+<entry endPc="268439483" name="notificationHeight" stackId="6" startPc="268439316"/>
+<entry endPc="268439917" name="batteryWidth" stackId="5" startPc="268439489"/>
+<entry endPc="268439917" name="batteryHeight" stackId="6" startPc="268439489"/>
+<entry endPc="268440646" name="xLocWhite" stackId="8" startPc="268439920"/>
+<entry endPc="268440646" name="xLocRed" stackId="13" startPc="268439920"/>
+<entry endPc="268440646" name="xLocBlue" stackId="11" startPc="268439920"/>
+<entry endPc="268440646" name="xLocSeparator" stackId="14" startPc="268439920"/>
+<entry endPc="268440646" name="totalMoveWidth" stackId="17" startPc="268439920"/>
+<entry endPc="268440646" name="widthPurpleOrGreen" stackId="9" startPc="268439920"/>
+<entry endPc="268440646" name="widthWhite" stackId="7" startPc="268439920"/>
+<entry endPc="268440646" name="totalStepWidth" stackId="16" startPc="268439920"/>
+<entry endPc="268440646" name="moveWidthRed" stackId="12" startPc="268439920"/>
+<entry endPc="268440646" name="height" stackId="15" startPc="268439920"/>
+<entry endPc="268440646" name="stepWidthBlue" stackId="10" startPc="268439920"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DigitalBlueView">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="reloadResources" parent="DigitalBlueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="reloadTheme" parent="DigitalBlueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DigitalBlueView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="DigitalBlueView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DigitalBlueView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawDate" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="date"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawTime" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="clockTime"/>
+<param id="showSeconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getFontOffsetBug" parent="DigitalBlueView">
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawAlarm" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="count"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawNotifications" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="count"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSleepMode" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="isSleepMode"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBTConnected" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="isBTConnected"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBattery" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="batteryLevel"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepProgress" parent="DigitalBlueView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="width"/>
+<param id="stepPercentage"/>
+<param id="moveBarLevel"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="DigitalBlueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="DigitalBlueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="DigitalBlueView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DigitalBlueApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="DigitalBlueApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DigitalBlueApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="DigitalBlueApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
